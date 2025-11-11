@@ -2,14 +2,12 @@
 
 <h1 align="center">Hi , I'm CikhungTerapiTinggiBadan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;GameDeveloper;JavaScript%20|%20HTML%20|%20React%20Enthusiast;I'm%20tired%20boss&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Game+Developer;JavaScript%20|%20HTML%20|%20React%20Enthusiast;I'm%20tired%20boss&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
 
 <h4 align="center">
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAa
-</h4>
+I'm an Information Technology undergraduate student at Yogyakarta State University with a strong passion for technology, especially in the area of web development.</h4>
 <br>
 <hr/> 
 
