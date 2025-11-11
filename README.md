@@ -20,6 +20,8 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 <hr/>
 
 ## 🏆 Trophies
+<br>
+
 <p align="center"> <a href="https://github.com/CikhungTerapiTinggiBadan">
 	<img src="https://github-profile-trophy.vercel.app/?username=cikhungterapitinggibadan&row=1&column=3&theme=algolia" alt="CikhungTerapiTinggiBadan" /></a>  </p>
 
@@ -33,11 +35,8 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 
 <hr/>
 
-## 🐍
-  <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/cikhungterapitinggibadan/cikhungterapitinggibadan/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <hr/>
 
