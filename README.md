@@ -19,15 +19,9 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cikhungterapitinggibadan&theme=algolia" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cikhungterapitinggibadan&theme=algolia&layout=compact" alt="top languages" />
-</p>
-
-<p align="center">
-![](https://github-readme-stats.vercel.app/api?username=cikhungterapitinggibadan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=cikhungterapitinggibadan&theme=algolia" alt="streak stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cikhungterapitinggibadan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cikhungterapitinggibadan&theme=algolia&layout=compact" alt="top languages" />
 </p>
 
 <br>
@@ -67,22 +61,22 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 
 <p align="center">
   <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" title="Gmail" alt="Gmail"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png" title="Gmail" alt="Gmail" style="background:white; border-radius:50%; padding:5px;"/>
   </a>
   <a href="https://github.com/CikhungTerapiTinggiBadan">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" title="GitHub" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" title="GitHub" alt="GitHub" style="background:white; border-radius:50%; padding:5px;"/>
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" title="LinkedIn" alt="LinkedIn" style="background:white; border-radius:50%; padding:5px;"/>
   </a>
   <a href="https://twitter.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" title="Twitter" alt="Twitter"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" title="Twitter" alt="Twitter" style="background:white; border-radius:50%; padding:5px;"/>
   </a>
   <a href="https://instagram.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram.png" title="Instagram" alt="Instagram"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" title="Instagram" alt="Instagram" style="background:white; border-radius:50%; padding:5px;"/>
   </a>
   <a href="https://youtube.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube.png" title="YouTube" alt="YouTube"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" title="YouTube" alt="YouTube" style="background:white; border-radius:50%; padding:5px;"/>
   </a>
 </p>
 
