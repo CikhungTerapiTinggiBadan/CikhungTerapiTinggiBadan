@@ -42,7 +42,7 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
+	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
 
