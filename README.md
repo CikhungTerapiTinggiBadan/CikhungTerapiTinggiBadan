@@ -9,7 +9,7 @@
 <hr/>
 
 <h4 align="center">
-I'm an Information Technology undergraduate student at Yogyakarta State University with a strong passion for technology, especially in the area of web development.
+I'm an Information Technology undergraduate student at Yogyakarta State University with a strong passion for gaming, sleeping, eating and especially in the area of web development.
 </h4>
 
 <br>
