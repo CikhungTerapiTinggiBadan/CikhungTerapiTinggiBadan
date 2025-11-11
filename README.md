@@ -5,7 +5,6 @@
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Game+Developer;JavaScript%20|%20HTML%20|%20React%20Enthusiast;I'm%20tired%20boss&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-
 <h4 align="center">
 I'm an Information Technology undergraduate student at Yogyakarta State University with a strong passion for technology, especially in the area of web development.</h4>
 <br>
