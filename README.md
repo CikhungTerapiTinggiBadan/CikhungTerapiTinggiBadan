@@ -26,6 +26,9 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cikhungterapitinggibadan&theme=algolia&layout=compact" alt="top languages" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=cikhungterapitinggibadan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
 <br>
 <hr/>
 
