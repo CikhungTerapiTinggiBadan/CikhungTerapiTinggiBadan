@@ -11,6 +11,8 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
+<br>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cikhungterapitinggibadan&theme=algolia" alt="CikhungTerapiTinggiBadan" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cikhungterapitinggibadan&theme=algolia&layout=compact" alt="CikhungTerapiTinggiBadan" /></p>
 
@@ -18,8 +20,8 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 <hr/>
 
 ## 🏆 Trophies
-<!-- <p align="center"> <a href="https://github.com/jaypavasiya"><img -->
-      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+<p align="center"> <a href="https://github.com/CikhungTerapiTinggiBadan">
+	<img src="https://github-profile-trophy.vercel.app/?username=cikhungterapitinggibadan&row=1&column=3&theme=algolia" alt="CikhungTerapiTinggiBadan" /></a>  </p>
 
 <!-- algolia -->
 <br>
