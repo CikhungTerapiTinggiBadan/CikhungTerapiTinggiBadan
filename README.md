@@ -1,8 +1,8 @@
-<h1 align="center">Hi , I'm CikhungTerapiTinggiBadan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">CikhungTerapiTinggiBadan</h1>
 
 <p align="center">
   <a href="https://github.com/cikhungterapitinggibadan">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Game+Developer;JavaScript%20|%20HTML%20|%20React%20Enthusiast;I'm%20tired%20boss&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Game+Developer;JavaScript%20|%20HTML%20|%20React%20Enthusiast;and%20also%20Python%20i%20guess;I'm%20tired%20boss&center=true&width=500&height=50">
   </a>
 </p>
 
