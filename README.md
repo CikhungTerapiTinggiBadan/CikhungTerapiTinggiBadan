@@ -20,7 +20,6 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=cikhungterapitinggibadan&theme=algolia" alt="streak stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cikhungterapitinggibadan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHubstats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cikhungterapitinggibadan&theme=algolia&layout=compact" alt="top languages" />
 </p>
 
@@ -32,9 +31,7 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 <br>
 
 <p align="center">
-  <a href="https://github.com/cikhungterapitinggibadan">
-    <img src="https://github-profile-trophy.vercel.app/?username=cikhungterapitinggibadan&row=1&column=3&theme=algolia" alt="GitHub Trophies" />
-  </a>
+
 </p>
 
 <br>
