@@ -30,13 +30,14 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 <br>
 
 - 🏠 [Ayasa House]()  
+  *Official Website of Yogyakarta Homestay - Ayasa House*
+
+- 💀 [Deathify]()  
   **
 
 - 🚢 [Monitoring System KKI 2025]()  
-  **
-
-- 💀 [Deathify]()  
-  **  
+  *Wahana Sengkuni is a Real-time Vehicle Monitoring System (VMS) for "Sengkuni" ASV.*
+  
 <br>
 <hr/>
 
