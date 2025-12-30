@@ -27,7 +27,6 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 <hr/>
 
 ## 🏆 Highlighted Project
-
 <br>
 
 - 🏠 [Ayasa House]()  
