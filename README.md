@@ -29,11 +29,14 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 ## 🏆 Highlighted Project
 
 <br>
+- 🏠 [Ayasa House]()  
+  **
 
-<p align="center">
+- 🚢 [Monitoring System KKI 2025]()  
+  **
 
-</p>
-
+- 💀 [Deathify]()  
+  **  
 <br>
 <hr/>
 
