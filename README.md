@@ -60,38 +60,38 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 
 ## 🙋‍♀️ Let's Connect
 <br>
-
-<p align="center">
-  <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/new-post.png" title="Gmail" alt="Gmail" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
-  </a>
-  <a href="https://github.com/CikhungTerapiTinggiBadan">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" title="GitHub" alt="GitHub" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/linkedin.png" title="LinkedIn" alt="LinkedIn" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/twitter.png" title="Twitter" alt="Twitter" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
-  </a>
-  <a href="https://instagram.com">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/instagram-new.png" title="Instagram" alt="Instagram" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
-  </a>
-  <a href="https://youtube.com">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/youtube-play.png" title="YouTube" alt="YouTube" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <a href="mailto:email@example.com"><img src="icon_url" width="40"></a>
+      <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
+        <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/new-post.png" title="Gmail" alt="Gmail" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
+        My Gmail
+      </a>
     </td>
     <td align="center" width="90">
-      <a href="github_url"><img src="icon_url" width="40"></a>
+      <a href="https://github.com/CikhungTerapiTinggiBadan">
+        <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" title="GitHub" alt="GitHub" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
+      </a>
     </td>
     <td align="center" width="90">
-      <a href="linkedin_url"><img src="icon_url" width="40"></a>
+      <a href="https://linkedin.com">
+    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/linkedin.png" title="LinkedIn" alt="LinkedIn" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://twitter.com">
+        <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/twitter.png" title="Twitter" alt="Twitter" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://instagram.com">
+        <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/instagram-new.png" title="Instagram" alt="Instagram" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://youtube.com">
+        <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/youtube-play.png" title="YouTube" alt="YouTube" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
+      </a>
     </td>
   </tr>
 </table>
