@@ -60,7 +60,7 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 
 ## 🙋‍♀️ Let's Connect
 <br>
-<table align="center">
+<table align="center" text="xs">
   <tr>
     <td align="center" width="90">
       <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
