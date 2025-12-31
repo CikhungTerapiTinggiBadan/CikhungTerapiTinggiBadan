@@ -84,7 +84,7 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 
 <p align="center">
   <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
-    <p>My Gmail
+    My Gmail
   </a>
   <a href="https://github.com/CikhungTerapiTinggiBadan">
     My Gmail
@@ -99,7 +99,7 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
     My Gmail
   </a>
   <a href="https://youtube.com">
-    My Gmail</p>
+    My Gmail
   </a>
 </p>
 
