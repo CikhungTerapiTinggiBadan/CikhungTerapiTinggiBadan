@@ -63,44 +63,32 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 
 <p align="center">
   <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/new-post.png" title="Gmail" alt="Gmail" style="background:white; border-radius:50%; padding:10px;"/>
+    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/new-post.png" title="Gmail" alt="Gmail" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
   </a>
   <a href="https://github.com/CikhungTerapiTinggiBadan">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" title="GitHub" alt="GitHub" style="background:white; border-radius:50%; padding:10px;"/>
+    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" title="GitHub" alt="GitHub" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/linkedin.png" title="LinkedIn" alt="LinkedIn" style="background:white; border-radius:50%; padding:10px;"/>
+    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/linkedin.png" title="LinkedIn" alt="LinkedIn" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
   </a>
   <a href="https://twitter.com">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/twitter.png" title="Twitter" alt="Twitter" style="background:white; border-radius:50%; padding:10px;"/>
+    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/twitter.png" title="Twitter" alt="Twitter" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
   </a>
   <a href="https://instagram.com">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/instagram-new.png" title="Instagram" alt="Instagram" style="background:white; border-radius:50%; padding:10px;"/>
+    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/instagram-new.png" title="Instagram" alt="Instagram" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
   </a>
   <a href="https://youtube.com">
-    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/youtube-play.png" title="YouTube" alt="YouTube" style="background:white; border-radius:50%; padding:10px;"/>
+    <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/youtube-play.png" title="YouTube" alt="YouTube" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
-    My Gmail
-  </a>,
-  <a href="https://github.com/CikhungTerapiTinggiBadan">
-    My Gmail
-  </a>,
-  <a href="https://linkedin.com">
-    My Gmail
-  </a>,
-  <a href="https://twitter.com">
-    My Gmail
-  </a>,
-  <a href="https://instagram.com">
-    My Gmail
-  </a>,
-  <a href="https://youtube.com">
-    My Gmail
-  </a>
+  <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">Gmail</a> • 
+  <a href="https://github.com/CikhungTerapiTinggiBadan">GitHub</a> • 
+  <a href="https://linkedin.com">LinkedIn</a> • 
+  <a href="https://twitter.com">Twitter</a> • 
+  <a href="https://instagram.com">Instagram</a> • 
+  <a href="https://youtube.com">YouTube</a>
 </p>
 
 ----
