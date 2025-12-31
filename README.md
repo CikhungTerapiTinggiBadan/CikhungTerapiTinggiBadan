@@ -64,6 +64,7 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 <p align="center">
   <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
     <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/new-post.png" title="Gmail" alt="Gmail" style="background:white; border-radius:50%; padding:10px;"/>
+    My Gmail
   </a>
   <a href="https://github.com/CikhungTerapiTinggiBadan">
     <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" title="GitHub" alt="GitHub" style="background:white; border-radius:50%; padding:10px;"/>
