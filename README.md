@@ -29,13 +29,13 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 ## 🏆 Highlighted Project
 <br>
 
-- 🏠 [Ayasa House]()  
+- 🏠 [Ayasa House](https://ayasa-house.vercel.app/)  
   *Official Website of Yogyakarta Homestay - Ayasa House*
 
-- 💀 [Deathify]()  
+- 💀 [Deathify](https://deathify.vercel.app/)  
   *Deathify is an interactive web application that calculates a person's estimated remaining life expectancy*
 
-- 🚢 [Monitoring System KKI 2025]()  
+- 🚢 [Monitoring System KKI 2025](https://github.com/CikhungTerapiTinggiBadan/Web-Monitoring-Mavis-KKI-2025)  
   *Wahana Sengkuni is a Real-time Vehicle Monitoring System (VMS) for "Sengkuni" ASV.*
   
 <br>
@@ -67,37 +67,37 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
     <td align="center" width="90">
       <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
         <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/new-post.png" title="Gmail" alt="Gmail" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
-        <sub>My Gmail</sub>
+        <sub>Gmail</sub>
       </a>
     </td>
     <td align="center" width="90">
       <a href="https://github.com/CikhungTerapiTinggiBadan">
         <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" title="GitHub" alt="GitHub" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
-        <sub>My Github</sub>
+        <sub>Github</sub>
       </a>
     </td>
     <td align="center" width="90">
       <a href="https://linkedin.com">
         <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/linkedin.png" title="LinkedIn" alt="LinkedIn" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
-        <sub>My Linkedin</sub>
+        <sub>Linkedin</sub>
       </a>
     </td>
     <td align="center" width="90">
       <a href="https://twitter.com">
         <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/twitter.png" title="Twitter" alt="Twitter" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
-        <sub>My X (Twitter)</sub>
+        <sub>X</sub>
       </a>
     </td>
     <td align="center" width="90">
       <a href="https://instagram.com">
         <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/instagram-new.png" title="Instagram" alt="Instagram" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
-        <sub>My Instagram</sub>
+        <sub>Instagram</sub>
       </a>
     </td>
     <td align="center" width="90">
       <a href="https://youtube.com">
         <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/youtube-play.png" title="YouTube" alt="YouTube" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
-        <sub>My Youtube</sub>
+        <sub>Youtube</sub>
       </a>
     </td>
   </tr>
