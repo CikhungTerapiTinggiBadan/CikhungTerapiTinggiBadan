@@ -33,7 +33,7 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
   *Official Website of Yogyakarta Homestay - Ayasa House*
 
 - 💀 [Deathify]()  
-  **
+  *Deathify is an interactive web application that calculates a person's estimated remaining life expectancy*
 
 - 🚢 [Monitoring System KKI 2025]()  
   *Wahana Sengkuni is a Real-time Vehicle Monitoring System (VMS) for "Sengkuni" ASV.*
