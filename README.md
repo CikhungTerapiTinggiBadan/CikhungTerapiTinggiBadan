@@ -84,22 +84,22 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 
 <p align="center">
   <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">
-    <p>My Gmail</p>
+    <p>My Gmail
   </a>
   <a href="https://github.com/CikhungTerapiTinggiBadan">
-    <p>My Gmail</p>
+    My Gmail
   </a>
   <a href="https://linkedin.com">
-    <p>My Gmail</p>
+    My Gmail
   </a>
   <a href="https://twitter.com">
-    <p>My Gmail</p>
+    My Gmail
   </a>
   <a href="https://instagram.com">
-    <p>My Gmail</p>
+    My Gmail
   </a>
   <a href="https://youtube.com">
-    <p>My Gmail</p>
+    My Gmail</p>
   </a>
 </p>
 
