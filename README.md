@@ -82,6 +82,20 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
   </a>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <a href="mailto:email@example.com"><img src="icon_url" width="40"></a>
+    </td>
+    <td align="center" width="90">
+      <a href="github_url"><img src="icon_url" width="40"></a>
+    </td>
+    <td align="center" width="90">
+      <a href="linkedin_url"><img src="icon_url" width="40"></a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="mailto:ziadan2960ft.2023@student.uny.ac.id">Gmail</a> • 
   <a href="https://github.com/CikhungTerapiTinggiBadan">GitHub</a> • 
