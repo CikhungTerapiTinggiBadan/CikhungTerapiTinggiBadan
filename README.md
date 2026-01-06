@@ -60,8 +60,6 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
 
 ## 🙋‍♀️ Let's Connect
 <br>
-<h2 align="center">🙋‍♀️ Let's Connect</h2>
-<br>
 <table align="center">
   <tr>
     <td align="center" width="90">
