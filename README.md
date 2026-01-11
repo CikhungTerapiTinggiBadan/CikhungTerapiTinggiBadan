@@ -77,8 +77,8 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
     </td>
     <td align="center" width="90">
       <a href="https://github.com/CikhungTerapiTinggiBadan">
-        <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" title="GitHub" alt="GitHub" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
-        <sub>Github</sub>
+        <img src="/lg.png" title="Logo" alt="Website"" hspace="10" width="40"/><br>
+        <sub>Website</sub>
       </a>
     </td>
     <td align="center" width="90">
