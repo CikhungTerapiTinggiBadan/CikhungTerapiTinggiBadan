@@ -76,7 +76,7 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://github.com/CikhungTerapiTinggiBadan">
+      <a href="https://www.cikhungterapitinggibadan.my.id/">
         <img src="/lg.png" title="Logo" alt="Website"" hspace="10" width="40"/><br>
         <sub>Website</sub>
       </a>
