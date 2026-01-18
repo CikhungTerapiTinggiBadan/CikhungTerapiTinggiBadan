@@ -88,21 +88,9 @@ I'm an Information Technology undergraduate student at Yogyakarta State Universi
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://twitter.com">
-        <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/twitter.png" title="Twitter" alt="Twitter" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
-        <sub>X</sub>
-      </a>
-    </td>
-    <td align="center" width="90">
       <a href="https://instagram.com">
         <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/instagram-new.png" title="Instagram" alt="Instagram" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
         <sub>Instagram</sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://youtube.com">
-        <img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/youtube-play.png" title="YouTube" alt="YouTube" style="background:white; border-radius:50%; padding:10px;" hspace="10" width="40"/><br>
-        <sub>Youtube</sub>
       </a>
     </td>
   </tr>
